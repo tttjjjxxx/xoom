@@ -1,0 +1,3 @@
+--2021-05-27 09:14:41--  https://labfile.oss.aliyuncs.com/courses/1330/linux.png
+Resolving labfile.oss.aliyuncs.com (labfile.oss.aliyuncs.com)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘labfile.oss.aliyuncs.com’
